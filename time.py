@@ -14,5 +14,5 @@ while(time.hour > time.hour1):
 	print "true"
 	break
 else:
- print "Falsex"	
+ print "False"	
 	
