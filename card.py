@@ -16,3 +16,5 @@ class Card(object):
 		if self.rank < other.rank: return -1
 		return 0
 		
+card1 = Card(3,11)
+print card1
